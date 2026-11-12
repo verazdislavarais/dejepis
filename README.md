@@ -1,6 +1,11 @@
 # dejepis
 Materiály pro výuku dějepisu.
 
+## Třicetiletá válka
+
+- [Studijní přehled](https://verazdislavarais.github.io/dejepis/materialy/tricetileta-valka/prehled-tricetilete-valky.html)
+- [Badatelské otázky](https://verazdislavarais.github.io/dejepis/materialy/tricetileta-valka/badatelske-otazky.html)
+
 ## Struktura webu
 
 - `docs/index.html` — úvodní stránka a rozcestník.
